@@ -2,6 +2,13 @@
     "name": "composer-stduy/echo",
     "description": "composer学习",
     "require": {
-
-    }
+        "php": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "zhouxing",
+            "email": "zhou991869558@qq.com"
+        }
+    ],
+    "license": "MIT"
 }
