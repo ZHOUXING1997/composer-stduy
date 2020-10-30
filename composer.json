@@ -10,5 +10,10 @@
             "email": "zhou991869558@qq.com"
         }
     ],
-    "license": "MIT"
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
 }
