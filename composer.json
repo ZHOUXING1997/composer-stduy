@@ -1,5 +1,5 @@
 {
-    "name": "composer-stduy/echo",
+    "name": "zhouxing/study",
     "description": "composer学习",
     "require": {
         "php": "^7.0"
@@ -13,7 +13,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Src\\": "src/"
+            "Say\\": "study/src/Say"
         }
     }
 }

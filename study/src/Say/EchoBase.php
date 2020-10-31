@@ -1,8 +1,9 @@
 <?php
 
-namespace Study;
 
-class EchoOne {
+namespace Say;
+
+class EchoBase {
 
     public function say () {
         echo '学习';
